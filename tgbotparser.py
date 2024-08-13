@@ -5,7 +5,7 @@ from aiogram import Bot, types, Dispatcher, F, html
 from aiogram.filters import CommandStart
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-TOKEN = '7351749098:AAF5EP71APwPtk2Y7dExkz7WmMJ1NcQt1WM'
+TOKEN = ''
 
 
 
